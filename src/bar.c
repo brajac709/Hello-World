@@ -6,6 +6,7 @@ int main(int argc, char *argv) {
     for (i = 0; i< 10; i++) {
         printf("whatup%d\n",i);
     }
-    
+    //do some other stuff.....
+    //wheeeeeeeee!
     return 0;
 } 
